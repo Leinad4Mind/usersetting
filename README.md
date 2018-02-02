@@ -1,4 +1,4 @@
 usersetting
 ===========
 
-Una nuova e semplice estensione che aggiunge un modulo PCA da cui é possibile settare in massa alcune impostazioni degli utenti
+A new and simple extension that adds a ACP Option where it is possible to set up certain user settings
